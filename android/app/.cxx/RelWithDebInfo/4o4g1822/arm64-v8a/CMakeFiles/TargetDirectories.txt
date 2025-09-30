@@ -1,0 +1,2 @@
+E:/food_multyvendor_user/android/app/.cxx/RelWithDebInfo/4o4g1822/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/food_multyvendor_user/android/app/.cxx/RelWithDebInfo/4o4g1822/arm64-v8a/CMakeFiles/rebuild_cache.dir
