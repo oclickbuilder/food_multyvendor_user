@@ -1,0 +1,2 @@
+E:/fmsweet_multyvendor_user/android/app/.cxx/Debug/k2y6a73i/x86/CMakeFiles/edit_cache.dir
+E:/fmsweet_multyvendor_user/android/app/.cxx/Debug/k2y6a73i/x86/CMakeFiles/rebuild_cache.dir
