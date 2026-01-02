@@ -30,7 +30,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace "com.mab.fmsweetUser"
+    namespace "com.mab.fmsweet"
     compileSdk 35
 
     compileOptions {
@@ -47,10 +47,12 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.mab.fmsweetUser"
+        applicationId "com.mab.fmsweet"
+        ndkVersion "28.1.13356709"
         minSdkVersion 23
         targetSdkVersion 35
-        versionCode flutterVersionCode.toInteger()
+//        versionCode flutterVersionCode.toInteger()
+        versionCode 4
         versionName flutterVersionName
         multiDexEnabled true
     }
@@ -68,7 +70,7 @@ android {
         release {
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig signingConfigs.debug
+            signingConfig signingConfigs.release
         }
     }
 }

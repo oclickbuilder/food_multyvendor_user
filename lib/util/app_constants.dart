@@ -42,7 +42,7 @@ class AppConstants {
   static const String updateAddressUri = '/api/v1/customer/address/update/';
   static const String setMenuUri = '/api/v1/products/set-menu';
   static const String customerInfoUri = '/api/v1/customer/info';
-  static const String couponUri = '/api/v1/coupon/list';
+  static const String couponUri = '/apiqn /v1/coupon/list';
   static const String restaurantWiseCouponUri =
       '/api/v1/coupon/restaurant-wise-coupon';
   static const String couponApplyUri = '/api/v1/coupon/apply?code=';
@@ -285,6 +285,5 @@ class AppConstants {
   static const double maxLimitOfTotalFileSent = 5;
   static const double maxSizeOfASingleFile = 10;
   static const double maxImageSend = 10;
-
   static const double limitOfPickedVideoSizeInMB = 50;
 }

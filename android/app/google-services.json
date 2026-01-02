@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "945212132345",
-    "project_id": "sweets-fc86c",
-    "storage_bucket": "sweets-fc86c.firebasestorage.app"
+    "project_number": "2440008678",
+    "project_id": "sweets-8e23b",
+    "storage_bucket": "sweets-8e23b.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:945212132345:android:b4b16bf502754535558b28",
+        "mobilesdk_app_id": "1:2440008678:android:daa45f247a0795fa8afc27",
         "android_client_info": {
-          "package_name": "com.mab.fmsweetUser"
+          "package_name": "com.mab.fmsweet"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDcsd9DVZhehX6jpUVGegp16DFvjNoVcks"
+          "current_key": "AIzaSyB41lHp-ic7GFNTexnEDvBJcKdIDKC0VbA"
         }
       ],
       "services": {
